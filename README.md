@@ -1,6 +1,6 @@
 # Diabetes Risk Predictor
 
-A simple Python program that takes basic health details from the user and tells them whether they might be at risk of diabetes or not. It compares the user's values against the averages from a real dataset of many patients and gives a result.
+It is a simple Python program that takes basic health details from the user and tells them whether they might be at risk of diabetes or not. It compares the user's values against the averages from a real dataset of many patients and gives a result.
 
 ---
 
@@ -29,13 +29,10 @@ The program then tells you whether your profile is High Risk or Low Risk for dia
 
 ## Dataset
 
-This project uses the Pima Indians Diabetes Dataset which contains 768 rows of real patient data.
+This project uses the Pima Indians Diabetes Dataset which contains many rows of real patient data. The dataset is already included in this repository as dataset.csv so you do not need to download anything separately.
 
-Download it from here:
+Downloaded it from here:
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-
-After downloading, rename the file to dataset.csv and place it in the same folder as the other files.
-
 ---
 
 ## How to set it up
